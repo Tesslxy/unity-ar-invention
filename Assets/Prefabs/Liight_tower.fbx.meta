@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: fa028af60fc5a4cc6a6ac3ae1c47ea48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base
+    100002: Blue
+    100004: Bulb
+    100006: Bulb.001
+    100008: Bulb.002
+    100010: Bulb.003
+    100012: Green
+    100014: //RootNode
+    100016: Orange
+    100018: Socket
+    100020: Socket.001
+    100022: Socket.002
+    100024: Socket.003
+    100026: Top cover
+    100028: White
+    400000: Base
+    400002: Blue
+    400004: Bulb
+    400006: Bulb.001
+    400008: Bulb.002
+    400010: Bulb.003
+    400012: Green
+    400014: //RootNode
+    400016: Orange
+    400018: Socket
+    400020: Socket.001
+    400022: Socket.002
+    400024: Socket.003
+    400026: Top cover
+    400028: White
+    2100000: Black Plastic
+    2100002: light
+    2100004: White
+    2100006: Blue
+    2100008: Green
+    2100010: Orange
+    2300000: Base
+    2300002: Blue
+    2300004: Bulb
+    2300006: Bulb.001
+    2300008: Bulb.002
+    2300010: Bulb.003
+    2300012: Green
+    2300014: Orange
+    2300016: Socket
+    2300018: Socket.001
+    2300020: Socket.002
+    2300022: Socket.003
+    2300024: Top cover
+    2300026: White
+    3300000: Base
+    3300002: Blue
+    3300004: Bulb
+    3300006: Bulb.001
+    3300008: Bulb.002
+    3300010: Bulb.003
+    3300012: Green
+    3300014: Orange
+    3300016: Socket
+    3300018: Socket.001
+    3300020: Socket.002
+    3300022: Socket.003
+    3300024: Top cover
+    3300026: White
+    4300000: Socket.003
+    4300002: Bulb.003
+    4300004: White
+    4300006: Blue
+    4300008: Green
+    4300010: Top cover
+    4300012: Orange
+    4300014: Base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
